@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackjackML.Core", "BlackjackML.Core\BlackjackML.Core.csproj", "{2AA98C95-41DA-449E-A1BC-AB44664CCFB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackjackML.Console", "BlackjackML.Console\BlackjackML.Console.csproj", "{AE34A96F-6A3D-421C-B5A4-D109A855C57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackjackML.DataGeneration", "BlackjackML.DataGeneration\BlackjackML.DataGeneration.csproj", "{3C85A861-314A-4AB7-9D45-22902852FE52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackjackML.Model", "BlackjackML.Model\BlackjackML.Model.csproj", "{28AAF91C-D567-46F5-B3AF-E10F1CC0DD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA98C95-41DA-449E-A1BC-AB44664CCFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA98C95-41DA-449E-A1BC-AB44664CCFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA98C95-41DA-449E-A1BC-AB44664CCFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA98C95-41DA-449E-A1BC-AB44664CCFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE34A96F-6A3D-421C-B5A4-D109A855C57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE34A96F-6A3D-421C-B5A4-D109A855C57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE34A96F-6A3D-421C-B5A4-D109A855C57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE34A96F-6A3D-421C-B5A4-D109A855C57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C85A861-314A-4AB7-9D45-22902852FE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C85A861-314A-4AB7-9D45-22902852FE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C85A861-314A-4AB7-9D45-22902852FE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C85A861-314A-4AB7-9D45-22902852FE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28AAF91C-D567-46F5-B3AF-E10F1CC0DD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AAF91C-D567-46F5-B3AF-E10F1CC0DD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AAF91C-D567-46F5-B3AF-E10F1CC0DD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AAF91C-D567-46F5-B3AF-E10F1CC0DD75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F320441-7395-4256-82FC-CE0FC4206651}
+	EndGlobalSection
+EndGlobal
